@@ -1,0 +1,9 @@
+Below youtube link discusses about Hive Bucketing in Apache Spark which was presented Tejas Patil from Facebook
+https://www.youtube.com/watch?v=6BD-Vv-ViBw
+
+Key Highlights
+
+Different types of Joins in Spark
+Why Suffling is Bad
+How shuffling can be avoided using Bucketing in Spark
+Differences between Hive and Spark Bucketing
